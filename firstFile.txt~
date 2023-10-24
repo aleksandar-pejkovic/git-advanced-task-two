@@ -1,6 +1,9 @@
 Line 1 edited from git_2 in another commit
 Line 2 edited from git_2 in another commit
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 Line 3 edited from original repo git_1
 Line 4
 Line 5

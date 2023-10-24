@@ -7,7 +7,7 @@ Line 3
 Line 4 edited from cloned repo git_1
 Line 5 edited from cloned repo git_1
 Line 6
-Line 7
+Line 7 edited another from original repo for step 20
 Line 8	edited from original repo git_1
 Line 9 edited from git_1
 Line 10 edited from git_1
