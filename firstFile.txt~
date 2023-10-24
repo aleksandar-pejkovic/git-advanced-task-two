@@ -1,10 +1,16 @@
 Line 1 edited from git_2 in another commit
 Line 2 edited from git_2 in another commit
-Line 3
+<<<<<<< HEAD
+Line 3 edited from original repo git_1
 Line 4
 Line 5
+=======
+Line 3
+Line 4 edited from cloned repo git_1
+Line 5 edited from cloned repo git_1
+>>>>>>> 7487b5c8e1a8baeb5b43f554aa5e5e3ce784b039
 Line 6
 Line 7
-Line 8
+Line 8	edited from original repo git_1
 Line 9 edited from git_1
 Line 10 edited from git_1
