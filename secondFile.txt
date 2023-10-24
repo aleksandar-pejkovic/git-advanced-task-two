@@ -8,3 +8,5 @@ Line 7
 Line 8
 Line 9 edited from git_1 branch
 Line 10 edited from git_1 branch
+Line 9 edited from git_2 branch
+Line 10 edited from git_2 branch
