@@ -1,10 +1,10 @@
 Line 1 edited from git_2 in another commit
 Line 2 edited from git_2 in another commit
-Line 3
+Line 3 edited from original repo git_1
 Line 4
 Line 5
 Line 6
 Line 7
-Line 8
+Line 8	edited from original repo git_1
 Line 9 edited from git_1
 Line 10 edited from git_1
